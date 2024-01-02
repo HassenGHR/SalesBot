@@ -1,0 +1,7 @@
+__pycache__
+*ogg
+*json
+*logs*
+*dbs*
+
+env/
